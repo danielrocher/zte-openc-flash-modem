@@ -6,6 +6,12 @@ Ce bug est corrigé dans le firmware fournit par la dernière MAJ du constructeu
 
 Suite à la publication par ZTE de la dernière MAJ, ces scripts ont été créé pour simplifier l'application du dernier firmware modem sur les Open C FR rooté.
 
+Prérequis:
+	- adb
+		Procédure d'installation  : https://developer.mozilla.org/fr/Firefox_OS/D%C3%A9boguer/Installer_ADB
+		Pour Windows, pilotes à télécharger : http://www.ztedevice.com/support/smart_phone/b5a2981a-1714-4ac7-89e1-630e93e220f8.html
+		Pour Linux, configuration supplémentaire : https://developer.mozilla.org/fr/Firefox_OS/Prerequis_pour_construire_Firefox_OS#Pour_Linux_.3A_configurer_la_r.C3.A8gle_udev_li.C3.A9e_au_t.C3.A9l.C3.A9phone
+
 Exécution du script propre à votre OS:
 	Téléchargez le script, extrayez-le dans un dossier et positionnez-vous dans ce dossier (cd dossier_contenant_le_script).
 	Si vous êtes déjà en possession de la dernière MAJ, il vous suffit d'en extraire le fichier NON-HLOS.bin, et de le placer dans le même répertoire que le script
