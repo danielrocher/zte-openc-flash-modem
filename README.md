@@ -17,6 +17,7 @@ Exécution du script propre à votre OS:
 
 L'ensemble des recherches ayant permis d'aboutir à ce script sont disponible sur le forum MozFR à cette adresse : https://forums.mozfr.org/viewtopic.php?f=33&t=122597.
 
+-------------------------------------------------------
 
 Remarques pour les Open C EU :
 Si vous rencontrez le même problème, vous pouvez prendre connaissance du bug suivant : https://bugzilla.mozilla.org/show_bug.cgi?id=1017604#c27.
