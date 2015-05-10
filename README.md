@@ -17,13 +17,9 @@ Exécution du script propre à votre OS:
 
 L'ensemble des recherches ayant permis d'aboutir à ce script sont disponible sur le forum MozFR à cette adresse : https://forums.mozfr.org/viewtopic.php?f=33&t=122597.
 
-<<<<<<< HEAD
 
 Remarques pour les Open C EU :
 Si vous rencontrez le même problème, vous pouvez prendre connaissance du bug suivant : https://bugzilla.mozilla.org/show_bug.cgi?id=1017604#c27.
 Il semblerait en effet qu'un possesseur d'Open C EU (eBay) rencontrant le prolème, ait flashé la partition modem de son appareil avec ce firmware (fournis officiellement pour l'Open C FR), et que le problème ait été résolu.
 
 RAPPELEZ-VOUS QUE CECI N'EST PAS OFFICIEL ET DONC PAS SUPPORTE SUR L'OPEN C EU. VOUS EFFECTUEREZ CETTE MANIPULATION A VOS RISQUES ET PERILS
-=======
-L'ensemble des recherches ayant permis d'aboutir à ce script sont disponible sur le forum MozFR à cette adresse : https://forums.mozfr.org/viewtopic.php?f=33&t=122597.
->>>>>>> 59d87b390e9b5f355dc70cbf8cb0f60a388eed1c
