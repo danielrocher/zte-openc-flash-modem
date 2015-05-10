@@ -1,0 +1,17 @@
+v1.0 - 09/05/2015
+	- Publication sur Github
+	- Scripts sous licence GPL 3.0
+
+v0.4 - 02/05/2015 (idem)
+	- Les sauts de ligne du script Linux étaient au format Windows
+	- Un test est maintenant effectué pour savoir si la partition firmware est à jour
+
+v0.3 - 01/05/2015 (merci à fabbox)
+	- Le script Linux propose de télécharger la mise à jour, si le fichier est absent
+	- "adb shell sync" a été rajouté aux scripts pour s'assurer que l'écriture sur la partition est bien terminée
+
+v0.2 - 01/05/2015 (merci à mossroy)
+	- L'exécution du script pouvait échouer si le dossier courant contenait un espace
+
+v0.1 - 01/05/2015
+	- Version initiale
