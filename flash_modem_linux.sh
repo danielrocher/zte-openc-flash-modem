@@ -23,7 +23,7 @@ if [[ $1 == "-h" ||  $1 == "--help" ]]; then
         echo "Ce script permet de flasher la partition firmware de votre Open C" &&
         echo &&
         echo "Utilisation : ${BASH_SOURCE[0]}" &&
-        echo "Le fichier sera recherché dans la dossier courant" &&
+        echo "Le fichier sera recherché dans le dossier courant" &&
         exit 0
 fi
 

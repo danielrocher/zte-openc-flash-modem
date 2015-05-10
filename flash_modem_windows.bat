@@ -76,4 +76,4 @@ GOTO :eof
 echo Ce script permet de flasher la partition firmware de votre Open C
 echo.
 echo Utilisation : %0
-echo Le fichier sera recherche dans la dossier courant
+echo Le fichier sera recherche dans le dossier courant
