@@ -9,4 +9,4 @@ Suite à la publication par ZTE de la dernière MAJ, ces scripts ont été cré�
 Pour les utilisateurs Windows, la dernière MAJ est disponible ici : http://download.ztedevice.com/UpLoadFiles/product/643/5522/soft/2015042909034130.zip
 
 
-L'ensemble des recherches ayant permis d'aboutir à ce script sont disponible sur la forum MozFR à cette adresse : https://forums.mozfr.org/viewtopic.php?f=33&t=122597.
+L'ensemble des recherches ayant permis d'aboutir à ce script sont disponible sur le forum MozFR à cette adresse : https://forums.mozfr.org/viewtopic.php?f=33&t=122597.
