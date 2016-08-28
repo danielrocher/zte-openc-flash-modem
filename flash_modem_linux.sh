@@ -45,7 +45,7 @@ CHEMIN_FIC=`pwd`
 				echo '-------------------------------------'
 				read -p "Voulez-vous télécharger la mise-à-jour B03 [O/n] ? (n par défaut) " rep
 				if [[ $rep == "O" || $rep == "o" ]]; then
-						wget -O B03.zip http://download.ztedevice.com/UpLoadFiles/product/643/5522/soft/2015042909034130.zip || (echo "Le téléchargement a échoué, merci de réessayer" && exit 1)
+						wget -O B03.zip http://download.ztedevice.com/device/global/support/product/643/5522/sd/2015042909034130.zip || (echo "Le téléchargement a échoué, merci de réessayer" && exit 1)
 						unzip ./B03.zip &&
 						unzip -d ./update_B03 "France OPEN C SD card upgrading instruction & software package(L leclerc telecom)-268280B0304FFOS_FR_ZTE_OPENCV1.0.0B03/update.zip" &&
 						cp ./update_B03/NON-HLOS.bin ./NON-HLOS.bin
